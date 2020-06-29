@@ -10,8 +10,12 @@ img {
 body {
     background: #E2E2E2;
     font-family: "Lato"
-
+     }
+h1 {
+  font-size: 40px;
 }
+
+
 /* centra nuestro portafolio */
 .portafolio{
     width: 90%;
